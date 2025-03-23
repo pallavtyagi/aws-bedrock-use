@@ -1,0 +1,10 @@
+apps:
+- created_model_id: arn:aws:bedrock:ap-southeast-2:438465130350:application-inference-profile/rdlqpzkkyebb
+  description: Agent 4
+  model_id: arn:aws:bedrock:ap-southeast-2::foundation-model/anthropic.claude-3-5-sonnet-20241022-v2:0
+  name: Agent_4
+  region: ap-southeast-2
+  tags:
+  - key: application
+    value: Agent_4
+  type: AGENT
